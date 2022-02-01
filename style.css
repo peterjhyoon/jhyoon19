@@ -1,0 +1,62 @@
+header {
+    background-color: #eff7fa;
+    padding-bottom: 20px;
+}
+
+#logo {
+    padding-top: 15px;
+}
+
+#navigation nav {
+    float: right;
+}
+
+#navigation li {
+    display: inline-block;
+    padding-right: 50px;
+}
+
+.main-photo {
+    padding-left: 10%;
+}
+
+.main-photo img {
+    border-radius: 30%;
+}
+
+.home {
+    /* Padding Order: Top Right Bottom Left */
+    padding: 10px 0px 80px 0px;
+    background-color: #eff7fa;
+}
+
+.home p {
+    width: 80%;
+}
+
+.work {
+    padding: 20px 0px 60px 0px;
+}
+
+.work h1 {
+    text-align: center;
+    padding: 10px 0px 20px 0px;
+}
+
+.work p {
+    width: 85%;
+}
+
+.projects {
+    padding: 10px 0px 60px 0px;
+    background-color: #eff7fa;
+}
+
+.projects h1 {
+    text-align: center;
+    padding: 10px 0px 20px 0px;
+}
+
+.project-container {
+    padding-bottom: 20px;
+}
