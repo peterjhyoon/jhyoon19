@@ -2,6 +2,8 @@
 
 A personal website. Still under development.
 
+Look for Typewriter effects
+
 Technologies Used:
 - Bootstrap
 - Jquery (for $)
